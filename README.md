@@ -1,5 +1,5 @@
 # Manganelo-Manga-Crawling
-Mangenelo Downloader with Python
+Manganelo Downloader with Python
 
 Modified from https://github.com/riojano0/manga-scrapper
 Features
